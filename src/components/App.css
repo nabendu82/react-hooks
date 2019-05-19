@@ -1,0 +1,14 @@
+.main__container {
+    display: grid;
+    place-content: center;
+    grid-template-rows: 30px 30px;
+    grid-gap: 10px;
+}
+
+.buttons__container{
+    display: grid;
+    grid-template-columns: 100px 100px;
+    column-gap: 5px;
+    font-size:1.5rem;
+}
+
